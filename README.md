@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozayed-RnD&hide_border=true&theme=tokyonight" alt="Top Languages" width="30%"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed-RnD7&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="66%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozayed-RnD&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="66%"/>
 
 <br>
 
